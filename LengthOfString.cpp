@@ -18,6 +18,5 @@ int main()
         count++;
 
     cout << "Length of " << text << " is " << count;
-
     return 0;
 }
